@@ -1,0 +1,5 @@
+Model,Test accuracy,Attack precision,Attack recall,Attack F1,Train time (s)
+SVM (RBF kernel),0.769,0.961,0.619,0.753,2.745
+SVM (Linear),0.751,0.916,0.619,0.739,0.798
+Logistic Regression,0.753,0.917,0.622,0.742,0.558
+Random Forest,0.764,0.967,0.606,0.745,1.715
